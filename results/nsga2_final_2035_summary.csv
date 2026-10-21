@@ -1,0 +1,12 @@
+metric,value
+feasible_designs,1362.0
+final_population,120.0
+pareto_designs,50.0
+profit_min_inr,1428184.433171188
+profit_max_inr,1902083.216901283
+comfort_min,51.8526807705353
+comfort_max,74.2682156122623
+co2_min_tonnes,6.234463824679924
+co2_max_tonnes,10.205895139141004
+price_min_inr,813516.8256251586
+price_max_inr,2453938.6703593163

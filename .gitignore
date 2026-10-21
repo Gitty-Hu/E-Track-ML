@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+ml_venv/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Data files: review and add selected sample data later
+data/
+
+# Trained model binaries
+*.pkl
+*.joblib
+
+# Generated prediction outputs
+results/*predictions*.csv
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
